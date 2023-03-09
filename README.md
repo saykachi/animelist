@@ -11,7 +11,7 @@ npm install -g anime
 ```
 
 <h1>usage</h1>
-```
+
 Usage: anime [options]
 
 Options:
@@ -20,4 +20,4 @@ Options:
 login, --login                            Login to MyAnimeList
 logout, --logout                          Logout of MyAnimeList
 add, --add <anime-name status(optional)>  Add an anime to your MyAnimeList, status is `completed` by default and can be watching|completed|onhold|dropped|plantowatch
-```
+
