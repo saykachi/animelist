@@ -11,7 +11,7 @@ npm install -g anime
 ```
 
 <h1>usage</h1>
-```bash
+```
 Usage: anime [options]
 
 Options:
