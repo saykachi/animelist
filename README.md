@@ -9,3 +9,5 @@ CLI for Adding/Removing/Updating anime to myanimelist.net
 ```bash
 npm install -g anime
 ```
+
+<h1>usage</h1>
